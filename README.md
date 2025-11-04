@@ -44,11 +44,11 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/navaneethajose"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://www.linkedin.com/in/navaneetha-jose"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:navijose24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://github.com/navijose24"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
 ---
 
-<p align="center">✨ “Code with logic, create with emotion.” ✨</p>
+<p align="center">✨ Code with logic, create with emotion. ✨</p>
