@@ -1,6 +1,6 @@
 <!-- ✨ Navi's Professional GitHub Profile ✨ -->
 
-<h1 align="center">Hi there, I'm <b>Navi 🌻</b></h1>
+<h1 align="center">Hi there, I'm <b>Navaneetha Jose🌻</b></h1>
 <p align="center">
   Creative Developer | AI Innovator | Tech Explorer 💡<br>
   Blending logic and imagination to build meaningful digital experiences.
@@ -18,7 +18,7 @@
 
 ### 🧠 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,django,threejs,unity,solidity,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,flask,django,threejs,unity,solidity,git,github,vscode" />
 </p>
 
 ---
@@ -28,7 +28,6 @@
 |-------------|----------------|----------------|
 | [**Wattrix**](https://github.com/navijose24/Wattrix) | Blockchain-based peer-to-peer renewable energy trading system. | Solidity • Python • Unity • React |
 | [**DumpDetec_**](https://github.com/navijose24/DumpDetec_) | AI-powered system detecting roadside waste dumping using Flask & YOLO. | Flask • Blender • Roboflow |
-| [**SoulEcho**](https://github.com/navijose24/SoulEcho) | Emotional healing project using digital twins of loved ones. | React • Django • AI |
 | [**SEO-Analyser**](https://github.com/navijose24/SEO-analyser) | Web tool for analyzing SEO quality and ranking potential. | JavaScript |
 | [**Aadhar OCR Extraction**](https://github.com/navijose24/Aadhar-OCR-Extraction-using-Tesseract) | OCR-based identity data extraction system. | Python • PyTesseract |
 | [**C++ Essentials**](https://github.com/navijose24/cpp-essentials) | DSA practice and algorithm learning repository. | C++ |
