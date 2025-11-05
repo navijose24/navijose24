@@ -27,7 +27,7 @@
 | 🌟 Project | 💡 Description | 🔗 Tech Stack |
 |-------------|----------------|----------------|
 | [**Wattrix**](https://github.com/navijose24/Wattrix) | Blockchain-based peer-to-peer renewable energy trading system. | Solidity • Python • Unity • React |
-| [**DumpDetec_**](https://github.com/navijose24/DumpDetec_) | AI-powered system detecting roadside waste dumping using Flask & YOLO. | Flask • Blender • Roboflow |
+| [**DumpDetec_**](https://github.com/navijose24/DumpDetec_) | AI-powered system detecting roadside waste dumping using Flask & YOLO. | Django • Blender • Roboflow • Yolov8 |
 | [**SEO-Analyser**](https://github.com/navijose24/SEO-analyser) | Web tool for analyzing SEO quality and ranking potential. | JavaScript |
 | [**Aadhar OCR Extraction**](https://github.com/navijose24/Aadhar-OCR-Extraction-using-Tesseract) | OCR-based identity data extraction system. | Python • PyTesseract |
 | [**C++ Essentials**](https://github.com/navijose24/cpp-essentials) | DSA practice and algorithm learning repository. | C++ |
