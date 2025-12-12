@@ -8,14 +8,6 @@
 
 ---
 
-### 🪄 About Me
-- 💻 Currently working on: **Wattrix – Blockchain-based Renewable Energy Trading**
-- 🌱 Learning: **AI Forecasting**, **Smart Contract Development**, and **3D Visualization**
-- 🎨 Passionate about: **Creative Pencil Sketch Art & 2D Themed Web Design**
-- 🌍 Building projects that **merge creativity, empathy, and technology**
-
----
-
 
 ### 🧩 Stats & Contributions
 <p align="center">
