@@ -5,14 +5,6 @@
   Creative Developer | AI Innovator | Tech Explorer 💡<br>
   Blending logic and imagination to build meaningful digital experiences.
 </p>
-
----
-
-### 🐍 Contribution Snake (Color Reactive 🌈)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ### 🧩 Stats & Contributions
@@ -28,6 +20,12 @@
   🧠 Currently Learning: Machine Learning & AI<br>
   ⚙️ Tech Stack: C++ | Python | JavaScript<br>
   🔥 Focus: Building impactful real-world projects<br>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
