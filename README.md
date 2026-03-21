@@ -6,7 +6,7 @@
   Blending logic and imagination to build meaningful digital experiences.
 </p>
 
----
+
 
 
 ### 🧩 Stats & Contributions
@@ -15,13 +15,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navijose24&theme=tokyonight" height="150"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
----
+
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -30,6 +30,6 @@
   <a href="https://github.com/navijose24"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
----
+
 
 <p align="center">✨ Code with logic, create with emotion. ✨</p>
