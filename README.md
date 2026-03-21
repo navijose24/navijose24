@@ -13,10 +13,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<p align="center">
-  ⚡ Snake changes color based on contribution intensity (dark → bright green)
-</p>
-
 ---
 
 ### 🧩 Stats & Contributions
