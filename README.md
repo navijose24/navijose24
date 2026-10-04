@@ -60,9 +60,9 @@ navijose24@github:~$ git pin --list
 
 navijose24@github:~$ ./contact.sh
 
-  portfolio : https://[YOUR-PORTFOLIO-LINK](https://navaneetha-jose.vercel.app/)
-  linkedin  : https://[linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/navaneetha-jose/)
-  upwork    : https://upwork.com/freelancers/YOUR-HANDLE
+  portfolio : https://navaneetha-jose.vercel.app/
+  linkedin  : https://www.linkedin.com/in/navaneetha-jose/
+  upwork    : https://upwork.com/freelancers/navaneethajose
 
 
 navijose24@github:~$ gh stats --live
