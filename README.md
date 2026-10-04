@@ -6,15 +6,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/navaneetha-jose"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:navijose24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://github.com/navijose24"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-</p>
-
-<p align="center">✨ Code with logic, create with emotion. ✨</p>
-
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │ ● ● ●        navijose24 — zsh — 80×24                                │
@@ -69,9 +60,8 @@ navijose24@github:~$ git pin --list
 
 navijose24@github:~$ ./contact.sh
 
-  portfolio : https://YOUR-PORTFOLIO-LINK
-  linkedin  : https://linkedin.com/in/YOUR-HANDLE
-  email     : YOUR-EMAIL
+  portfolio : https://[YOUR-PORTFOLIO-LINK](https://navaneetha-jose.vercel.app/)
+  linkedin  : https://[linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/navaneetha-jose/)
   upwork    : https://upwork.com/freelancers/YOUR-HANDLE
 
 
@@ -86,8 +76,8 @@ navijose24@github:~$ gh stats --live
 </div>
 
 ```bash
-navijose24@github:~$ echo "Creative. Bold. Different."
-Creative. Bold. Different.
+navijose24@github:~$ echo "Code with logic, create with emotion."
+Code with logic, create with emotion.
 
 navijose24@github:~$ █
 ```
